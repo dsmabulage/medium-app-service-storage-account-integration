@@ -1,0 +1,19 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@azure/identity": "^4.8.0",
+    "@azure/storage-blob": "^12.26.0",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "express-fileupload": "^1.5.1"
+  }
+}
